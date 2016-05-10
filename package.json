@@ -1,0 +1,28 @@
+{
+  "name": "fis3-deploy-combo",
+  "version": "0.1.0",
+  "description": "Combo files after postpackager, which had been process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fwon",
+  "devDependencies": {
+    "fis3": "^3.0.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fwon/fis3-deploy-combo.git"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "deploy",
+    "fis-deploy-combo",
+    "combo"
+  ],
+  "bugs": {
+    "url": "https://github.com/fwon/fis3-deploy-combo/issues"
+  }
+  "license": "ISC"
+}
